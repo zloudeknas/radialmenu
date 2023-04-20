@@ -1,4 +1,4 @@
-radial-menz is a custom script, from creator žloudek: https://discord.gg/xGFceZ9uH7
+radial-menu is a custom script, from creator žloudek: https://discord.gg/xGFceZ9uH7
 
 You can use any supported framework to enable additional features.
 Supported frameworks are esx or QB
